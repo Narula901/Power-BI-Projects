@@ -1,0 +1,4 @@
+Things that need to be done 
+
+1. Calculation Groups
+2. PERSONALIZE VISUALS and PERSPECTIVES in Power BI
