@@ -1,0 +1,10 @@
+Product table have no relation with sales table
+
+revenue(Treatas) = 
+CALCULATE(sum(sales[quantity]), ---- sale[qty] matches with sales[products]
+TREATAS(
+    SELECTCOLUMNS(products,
+    "Prod_Id", products[product_id]
+    ),
+    sales[product_id]
+))
